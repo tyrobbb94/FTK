@@ -1,0 +1,102 @@
+Added Coremods:
+Baubles-1.7.10-1.0.1.10.jar
+CodeChickenLib-1.7.10-1.1.3.127-universal.jar
+commons-codec-1.9.jar
+commons-compress-1.8.1.jar
+ForgeMultipart-1.7.10-1.1.2.331-universal.jar
+MrTJPCore-1.7.10-1.0.5.12-universal.jar
+---------
+Added Mods:
+additionalpipes-4.3.0.jar
+appliedenergistics2-rv2-beta-8.jar
+Aroma1997Core-1.7.10-1.0.2.13.jar
+AromaBackup-1.7.10-0.0.0.5.jar
+AsieLib-1.7.10-0.3.8.jar
+BiblioCraft[v1.9.2][MC1.7.10].jar
+BiblioWoods[Natura][v1.5].jar
+BigReactors-0.4.1A2.jar
+BiomesOPlenty-1.7.10-2.1.0.1067-universal.jar
+BloodMagic-1.7.10-1.3.0a-1.jar
+Botania r1.6-176.jar
+buildcraft-6.4.11.jar
+buildcraft-compat-6.4.2.jar
+Carpenter's Blocks v3.3.5 - MC 1.7.10.jar
+ChickenChunks-1.7.10-1.3.4.19-universal.jar
+Chisel2-2.3.10.37.jar
+CodeChickenCore-1.7.10-1.0.4.35-universal.jar
+CoFHCore-[1.7.10]3.0.2-262.jar
+Computronics-1.7.10-1.3.4.jar
+denseores-1.5.jar
+EnderIO-1.7.10-2.2.8.367.jar
+EnderStorage-1.7.10-1.4.6.31-universal.jar
+EnderTech-1.7.10-0.3.0.364.jar
+EnhancedPortals_1.7.10-universal-3.0.10.jar
+ExtraCells-1.7.10-2.2.59b89.jar
+ExtraTiC-1.7.10-1.0.3.jar
+extrautilities-1.2.1.jar
+FlatSigns-1.7.10-universal-2.1.0.19.jar
+Forbidden Magic-1.7.10-0.562.jar
+forestry_1.7.10-3.4.0.7.jar
+growthcraft-apples-1.7.10-2.1.0.jar
+growthcraft-bamboo-1.7.10-2.1.0.jar
+growthcraft-bees-1.7.10-2.1.0.jar
+growthcraft-cellar-1.7.10-2.1.0a.jar
+growthcraft-core-1.7.10-2.1.0a.jar
+growthcraft-fishtrap-1.7.10-2.1.0a.jar
+growthcraft-grapes-1.7.10-2.1.0.jar
+growthcraft-hops-1.7.10-2.1.0.jar
+growthcraft-rice-1.7.10-2.1.0a.jar
+InventoryTweaks-1.59-dev-156.jar
+ironchest-1.7.10-6.0.62.742-universal.jar
+Jabba-1.1.4_1.7.10.jar
+logisticspipes-0.8.3.116.jar
+malisiscore-1.7.10-0.10.5.jar
+malisisdoors-1.7.10-1.4.3.jar
+Mantle-1.7.10-0.3.2.jar
+Mekanism-1.7.10-8.1.1.224.jar
+MekanismGenerators-1.7.10-8.1.1.224.jar
+MekanismTools-1.7.10-8.1.1.224.jar
+MineFactoryReloaded-[1.7.10]2.8.0-104.jar
+MineTweaker3-1.7.10-3.0.9C.jar
+ModTweaker-1.7.X-0.6-24.jar
+MrCrayfishFurnitureModv3.4.7(1.7.10).jar
+natura-1.7.10-2.2.0.1.jar
+neiaddons-mc1710-1.12.4.16.jar
+NEIIntegration-MC1.7.10-1.0.8.jar
+NotEnoughItems-1.7.10-1.0.4.95-universal.jar
+OpenBlocks-1.7.10-1.3.jar
+OpenComputers-MC1.7.10-1.4.6.30-universal.jar
+OpenModsLib-1.7.10-0.6.jar
+Pam's HarvestCraft 1.7.10f.jar
+ProjectRed-1.7.10-4.5.16.77-Base.jar
+ProjectRed-1.7.10-4.5.16.77-Compat.jar
+ProjectRed-1.7.10-4.5.16.77-Integration.jar
+ProjectRed-1.7.10-4.5.16.77-Lighting.jar
+ProjectRed-1.7.10-4.5.16.77-Mechanical_beta.jar
+ProjectRed-1.7.10-4.5.16.77-World.jar
+Railcraft_1.7.10-9.5.0.0.jar
+RedstoneArsenal-[1.7.10]1.1.0RC1-23.jar
+SimplyJetpacks-MC1.7.10-1.3.2.jar
+StevesWorkshop-0.5.1.jar
+TConstruct-1.7.10-1.8.2.build875.jar
+Thaumcraft-1.7.10-4.2.3.5.jar
+ThaumicExploration-1.7.10-1.1-37.jar
+ThaumicTinkerer-2.5-1.7.10-471.jar
+ThermalDynamics-[1.7.10]1.0.0-122.jar
+ThermalExpansion-[1.7.10]4.0.1-182.jar
+ThermalFoundation-[1.7.10]1.0.0-81.jar
+TiCTooltips-mc1.7.10-1.2.3.jar
+twilightforest-1.7.10-2.3.4.jar
+Waila-1.5.10_1.7.10.jar
+WailaHarvestability-mc1.7.x-1.1.1.jar
+witchery-1.7.10-0.24.0.jar
+---------
+Reverted Forge back to previous verson:
+forge-1.7.10-10.13.2.1352-1.7.10-universal
+---------
+Edited config files for Biomes O' Plenty & Twilightforest:
+Changed conflicting biome id's
+---------
+Stable Server Build r1.2 packed and uploaded!
+---------
+End
